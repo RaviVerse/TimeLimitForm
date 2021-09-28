@@ -1,3 +1,4 @@
+$( document ).ready(function() {
 var c=180;
         var t;
         timedCount();
@@ -49,3 +50,4 @@ var c=180;
       window.location="submit.php";
     });
   });
+});
