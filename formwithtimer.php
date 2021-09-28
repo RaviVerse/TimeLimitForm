@@ -13,7 +13,7 @@
 <div class="container">
   <div class="row centered-form">
     <h3 style="color:#FF0000" align="center">
-        Your form will be Submitted in 3 Minutes: <span id='timer'></span>
+        Your form should be Submitted in 3 Minutes: <span id='timer'></span>
     </h3>
 
 <div class="col-xs-12 col-sm-8 col-md-4 col-sm-offset-2 col-md-offset-4">
